@@ -1,0 +1,9 @@
+venv/
+tasks.md
+__pycache__/
+*.pyc
+*.pyo
+
+
+tasks.md
+tasks.md
